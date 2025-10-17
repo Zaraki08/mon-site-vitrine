@@ -10,14 +10,15 @@ export default function Home() {
         />
 
         <h1 className="text-5xl font-bold mb-6 text-gray-800">
-          Salut, je suis{" "}
+          Bienvenue, je suis{" "}
           <span className="text-emerald-600">
-            KOUNOU MENGUE DANIEL ALEXANDRE
+             DANIEL ALEXANDRE
           </span>
         </h1>
         <p className="text-lg text-gray-600 max-w-xl mb-8">
           Développeur web passionné, je crée des sites modernes, rapides et responsives avec Next.js et Tailwind CSS.
           Je fais également dans le réseau et la cybersécurité, je couvre largement de services dans ces domaines.
+          Je suis également passionée par le web design et j'aime bien les illustrations graphiques flyers pant-carte etc.
         </p>
 
         <a
@@ -28,10 +29,7 @@ export default function Home() {
         </a>
       </section>
 
-      {/* Footer */}
-      <footer className="bg-emerald-600 text-white py-6 text-center mt-auto">
-        © {new Date().getFullYear()} KOUNOU DANIEL — Tous droits réservés
-      </footer>
+      
     </main>
   );
 }
