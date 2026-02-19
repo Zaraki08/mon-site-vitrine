@@ -52,7 +52,7 @@ export default function Contact() {
       <p className="text-gray-600 mt-2 text-center">
         Ou contactez-moi sur WhatsApp :{" "}
         <a
-          href="https://wa.me/message/APC7LQJYMQMUI1"
+          href="https://wa.me/message/2WF6OJ2QRZ2VJ1"
           target="_blank"
           rel="noopener noreferrer"
           className="text-emerald-600 font-semibold hover:underline"
